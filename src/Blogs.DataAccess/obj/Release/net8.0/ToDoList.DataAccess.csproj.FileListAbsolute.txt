@@ -1,0 +1,17 @@
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\bin\Release\net8.0\ToDoList.DataAccess.deps.json
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\bin\Release\net8.0\ToDoList.DataAccess.runtimeconfig.json
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\bin\Release\net8.0\ToDoList.DataAccess.dll
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\bin\Release\net8.0\ToDoList.DataAccess.pdb
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\bin\Release\net8.0\ToDoList.Core.dll
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\bin\Release\net8.0\ToDoList.Core.pdb
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ToDoList.DataAccess.csproj.AssemblyReference.cache
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ToDoList.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ToDoList.DataAccess.AssemblyInfoInputs.cache
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ToDoList.DataAccess.AssemblyInfo.cs
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ToDoList.DataAccess.csproj.CoreCompileInputs.cache
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ToDoList.DataAccess.csproj.CopyComplete
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ToDoList.DataAccess.dll
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\refint\ToDoList.DataAccess.dll
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ToDoList.DataAccess.pdb
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ToDoList.DataAccess.genruntimeconfig.cache
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.DataAccess\obj\Release\net8.0\ref\ToDoList.DataAccess.dll

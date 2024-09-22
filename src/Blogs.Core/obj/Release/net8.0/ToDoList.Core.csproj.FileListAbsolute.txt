@@ -1,0 +1,12 @@
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\bin\Release\net8.0\ToDoList.Core.deps.json
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\bin\Release\net8.0\ToDoList.Core.dll
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\bin\Release\net8.0\ToDoList.Core.pdb
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\obj\Release\net8.0\ToDoList.Core.csproj.AssemblyReference.cache
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\obj\Release\net8.0\ToDoList.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\obj\Release\net8.0\ToDoList.Core.AssemblyInfoInputs.cache
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\obj\Release\net8.0\ToDoList.Core.AssemblyInfo.cs
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\obj\Release\net8.0\ToDoList.Core.csproj.CoreCompileInputs.cache
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\obj\Release\net8.0\ToDoList.Core.dll
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\obj\Release\net8.0\refint\ToDoList.Core.dll
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\obj\Release\net8.0\ToDoList.Core.pdb
+D:\Programming\IDEs\Visual Studio 2022\ToDoList\Blogs.Core\obj\Release\net8.0\ref\ToDoList.Core.dll
